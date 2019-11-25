@@ -1,2 +1,2 @@
-# full-of-crap
+# first_repo
 for lab
